@@ -1,3 +1,6 @@
+<img width="1024" height="1536" alt="Função da IA no Futuro" src="https://github.com/user-attachments/assets/a47e5627-a290-4846-b39c-1549668bf525" />
+
+
 # 🎙️ Podcast: A Função da IA no Futuro das Nações
 
 Este repositório contém o projeto desenvolvido para o desafio de Engenharia de Prompts da DIO.
