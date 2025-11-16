@@ -1,2 +1,19 @@
-# Podcast-DIO
-Este projeto consiste na criação de um podcast de aproximadamente 10 minutos, com estilo descontraído, abordando o tema “A Função da IA no Futuro das Nações”.
+# 🎙️ Podcast: A Função da IA no Futuro das Nações
+
+Este repositório contém o projeto desenvolvido para o desafio de Engenharia de Prompts da DIO.
+
+## 📌 Descrição
+O objetivo foi criar um podcast de 10 minutos, em estilo descontraído, abordando como a Inteligência Artificial irá impactar o futuro das nações no contexto econômico, social, educacional, militar e governamental.
+
+## 🧩 Conteúdo do Repositório
+- Roteiro completo do podcast
+- Prompts utilizados durante a criação
+- Áudio final em MP3
+- Estrutura organizada do projeto
+
+## 🧠 Tecnologias / Ferramentas Usadas
+- ChatGPT (engenharia de prompt)
+- Ferramentas de edição de áudio (à escolha)
+- Git e GitHub
+
+## 📂 Estrutura
