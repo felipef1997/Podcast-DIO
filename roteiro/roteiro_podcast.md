@@ -1,4 +1,5 @@
 ROTEIRO COMPLETO DO PODCAST (10 MIN, DESCONTRAÍDO)
+
 🎙️ Título:
 
 A Função da IA no Futuro das Nações
